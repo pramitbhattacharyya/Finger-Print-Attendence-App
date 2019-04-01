@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FingerPrint Attendence</string>
+    <string name="title_activity_create_new">CreateNew</string>
+    <string name="title_activity_add_new">AddNew</string>
+    <string name="title_activity_show_my_att">ShowMyAtt</string>
+    <string name="title_activity_show_cls_att">ShowClsAtt</string>
+    <string name="title_activity_first_add">FirstAdd</string>
+    <string name="title_activity_take_att">TakeAtt</string>
+    <string name="title_activity_password">Password</string>
+</resources>
